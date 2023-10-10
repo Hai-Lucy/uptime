@@ -14,9 +14,9 @@ status-website:
   cname: statuslucy.is-a.fun
   # baseUrl: /uptime-monitor
   logoUrl: https://cdn.discordapp.com/attachments/1098969636306960465/1148602936990113843/newlucy.png?ex=652e84d8&is=651c0fd8&hm=8fd28db318b820d3e069af2d478ecc3c9a77fbdedb4f46b9018b28aaeef72bcb&
-  name: Lucy Uptime
+  name: L u c y ♡ Uptime
   theme: night
-  introTitle: "L RMN's status page for his websites. Powered by github actions."
+  introTitle: "L u c y ♡'s status page for his websites. Powered by github actions."
   introMessage: See which of my websites are up, which are down, and which are broken here!
   navbar:
     - title: Uptime
